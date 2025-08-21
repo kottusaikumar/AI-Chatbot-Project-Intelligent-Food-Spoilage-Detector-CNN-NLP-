@@ -1,0 +1,433 @@
+Question,Answer
+Hi.,Hello! How can I assist you today?
+I need help with my recent order.,Sure! What seems to be the issue with your order?
+The food is spoiled.,Iâm sorry to hear that. Please upload an image for verification.
+"Sure, here is the image.",Thank you! Let me check it now.
+Thank you. How do I get my refund?,Refund initiated. Amount will be credited within 5-7 business days.
+"Great! Also, can I cancel my order if I face similar issues?","Yes, you can request refunds or cancellations anytime."
+Will I get a full refund or partial refund?,"If verified, youâll receive a full refund."
+What if I receive the wrong order?,You can request a refund or replacement for wrong orders.
+Do I need to provide proof for wrong orders?,"Yes, please upload an image of the received order."
+What if my food is delayed but arrives properly?,We donât refund for delays unless food is spoiled.
+Thanks for your help.,Youâre welcome! Have a wonderful day!
+"Actually, the food is not spoiled.",The image shows food is not spoiled. Refund isnât applicable.
+Can I still cancel my order?,Cancellation isnât allowed unless specific issues are present.
+What if I cancel before the food is prepared?,Orders can be canceled before preparation starts.
+What happens if my order is missing items?,You can report missing items and request a refund.
+"Alright, thanks.",You're welcome! Let us know for further assistance.
+Can I request a replacement instead of a refund if I have issues next time?,"Yes, replacements are available as an alternative to refunds."
+What if the issue happens again after a replacement?,Weâll investigate and provide another replacement or refund.
+Do I need to return the spoiled food?,No return required. Discard spoiled food for safety.
+How can I contact you in the future for similar issues?,"Use chat, call, or email support@foodservice.com."
+Can I change my delivery address after ordering?,Address changes are allowed before dispatch.
+What if my food is delivered to the wrong address?,Contact support immediately to resolve delivery issues.
+Do you offer discounts for frequent issues?,We may offer coupons based on issue frequency.
+What if my order is taking too long?,Check the tracking link or contact support for updates.
+Can I schedule my order for later delivery?,"Yes, you can schedule a delivery time during checkout."
+What payment methods do you accept?,"We accept credit cards, debit cards, and digital wallets."
+Can I tip the delivery person?,"Yes, tipping is available in the app or in cash."
+How do I know if my order is confirmed?,You will receive an order confirmation email or notification.
+Can I change items in my order after placing it?,Changes can be made before the order is prepared.
+What if I accidentally placed a duplicate order?,Contact support immediately to cancel the duplicate.
+How do I check my order status?,Use the order tracking feature in the app or website.
+What if my payment fails?,Retry payment or use another method. Contact support if needed.
+Do you offer cash-on-delivery?,"No, we currently only accept online payments."
+Can I add special instructions for my order?,"Yes, you can add instructions at checkout."
+How do I know if a restaurant is open?,Check the restaurant's availability in the app.
+What if my order is canceled by the restaurant?,You will receive a full refund.
+How do I report poor food quality?,Upload an image and contact support for assistance.
+What if I am not home during delivery?,Contact support to reschedule or request doorstep delivery.
+Can I get an invoice for my order?,"Yes, invoices are available in the order history section."
+Can I order from multiple restaurants at once?,"No, each order must be placed separately."
+What if I have dietary restrictions?,Check restaurant menus for dietary options before ordering.
+How do I leave a review for my order?,You can leave a review in the app after delivery.
+Can I request contactless delivery?,"Yes, choose the contactless delivery option at checkout."
+What if my food packaging is damaged?,Upload an image and request a refund or replacement.
+How do I update my contact details?,Edit your profile in the app settings.
+Can I reorder my previous orders?,"Yes, reorder from your order history in the app."
+What if I have an allergy concern?,Check with the restaurant before ordering.
+How do I refer a friend for rewards?,Use the referral section in the app.
+Can I request a specific delivery person?,"No, assignments are automated based on availability."
+What if my promo code isnât working?,Ensure it is valid and meets the conditions.
+What if I forgot my account password?,Use the forgot password option to reset it.
+How can I delete my account?,Contact support to request account deletion.
+Thatâs great to know. Thanks for clarifying everything!,Youâre welcome! Reach out anytime. Have a wonderful day!
+I think I received the wrong order.,Im sorry to hear that. Could you please provide an image of the order you received?
+Heres the image of the order I got.,It looks like the order is incorrect. Well process a replacement for you.
+Thank you! How long will the replacement take?,The replacement will be delivered within 30 minutes to an hour.
+Can I cancel my order instead of getting a replacement?,"Yes, you can cancel it. Would you prefer that instead?"
+"Yes, please cancel it.",Your order has been canceled. You will receive a full refund within 3-5 business days.
+Great! Will I be notified when my refund is processed?,"Yes, youll receive an email notification once the refund is processed."
+What if I experience this issue again in the future?,"If it happens again, we will offer you a replacement or a refund. You can also contact us directly for assistance."
+Thanks!,Youre welcome! Feel free to reach out if you need further assistance. Have a wonderful day!
+I want to know if my order has been shipped yet.,I can check that for you. Please provide your order ID so I can give you an update.
+"Hi, I can't track my order.",Hello! I can help you with that. Could you please share your order number?
+My food arrived cold.,We apologize. Can you share an image for verification?
+Here's the image.,Thanks! Ill check it now.
+Can I cancel my order before it arrives?,Orders can be canceled before preparation starts.
+Will I get a full refund?,"Yes, youll receive a full refund if verified."
+What if my order is delayed?,We dont refund for delays unless the food is spoiled.
+What if the order is missing items?,Report missing items and request a refund.
+Can I change my order?,Orders can be changed before preparation begins.
+Can I change the delivery address?,Address changes are allowed before dispatch.
+Can I tip the delivery person?,"Yes, tipping is available in-app or in cash."
+How do I know if my order is confirmed?,You will receive an order confirmation email or notification.
+What if I placed a duplicate order?,Contact support immediately to cancel the duplicate.
+How do I report poor food quality?,Upload an image and contact support for assistance.
+Can I reorder my previous orders?,"Yes, reorder from your order history in the app."
+What if my promo code isnt working?,Ensure its valid and meets the conditions
+Can I change items after ordering?,Changes can be made before the order is prepared.
+How do I cancel my order?,Orders can be canceled before preparation starts.
+What payment methods do you accept?,"We accept credit cards, debit cards, and digital wallets."
+How can I add special instructions for my order?,You can add instructions at checkout.
+Can I schedule my order for later?,"Yes, you can schedule a delivery time during checkout."
+Can I get an invoice for my order?,"Yes, invoices are available in your order history."
+How do I know if a restaurant is open?,Check the restaurants availability in the app.
+Can I order from multiple restaurants?,"No, each order must be placed separately."
+Can I request contactless delivery?,"Yes, choose the contactless option at checkout."
+How do I update my contact details?,Edit your profile in the app settings.
+Can I delete my account?,Contact support to request account deletion.
+What if I forgot my account password?,"Use the ""Forgot password"" option to reset it."
+Can I request a specific delivery person?,"No, assignments are automated based on availability."
+Can I cancel my order after its prepared?,Cancellation isnt allowed once preparation starts.
+What if my order is canceled by the restaurant?,You will receive a full refund.
+Can I report food packaging damage?,Upload an image and request a refund or replacement.
+How do I refer a friend for rewards?,Use the referral section in the app.
+Can I tip through the app?,"Yes, tipping is available in the app."
+How do I leave a review for my order?,Leave a review in the app after delivery.
+Can I check my order status?,Use the order tracking feature in the app.
+What if my food is delivered to the wrong address?,Contact support immediately to resolve delivery issues.
+Can I add extra items to my order?,Extra items can be added before order preparation.
+What if I have dietary restrictions?,Check restaurant menus for dietary options.
+How do I cancel an order I havent received?,Orders can be canceled before dispatch.
+Can I request a refund for wrong items?,"Yes, you can request a refund for wrong items."
+What if my payment fails?,Retry payment or use another method.
+Can I use a discount coupon?,Ensure the coupon is valid and meets the conditions.
+What if I dont get a confirmation email?,Check your spam folder or contact support.
+Can I change the delivery time?,"You can change it during checkout, before dispatch."
+Can I cancel my order after food is delivered?,Cancellation isnt possible after delivery.
+Can I reorder my previous meals?,"Yes, reorder from your order history in the app."
+How do I check the delivery ETA?,Check the tracking link or contact support for updates.
+How do I use a promo code?,Enter the code at checkout to apply the discount.
+Can I request a refund if food is delayed?,"Refunds are provided only if food is spoiled, not delayed"
+What if my delivery is late?,Check the tracking link for updates or contact support.
+Can I change my order after placing it?,Changes can be made before the order is prepared.
+Can I cancel an order before its prepared?,Orders can be canceled before preparation begins.
+What happens if my food is spoiled?,Report it with an image for a full refund.
+How do I know my order is confirmed?,Youll receive a confirmation email or notification.
+Can I pay with cash on delivery?,We only accept online payments.
+Can I order from different restaurants at the same time?,Each order must be placed separately.
+Can I use multiple promo codes?,Only one promo code can be applied per order.
+How do I change the payment method?,Change it during checkout before order confirmation.
+ Can I order for someone else?,"Yes, provide the delivery address during checkout."
+Can I track my order after it's shipped?,"Yes, track your order using the app or website."
+Can I tip in cash?,"Yes, tipping is allowed in cash or through the app."
+Can I order food for pickup?,"We currently offer delivery only, no pickup options."
+What if I accidentally order the wrong item?,Contact support immediately to change or cancel the order.
+Can I cancel an order after its shipped?,Orders cant be canceled once dispatched.
+How do I request a refund?,Contact support with an image for verification.
+Can I change my delivery address after placing the order?,Address changes are allowed before dispatch only.
+Can I add more items to my order after placing it?,You can add items before the order is prepared.
+How do I report missing items?,Report missing items via the app and request a refund.
+Can I cancel an order after its prepared?,Orders cant be canceled after preparation starts.
+What happens if my order is damaged?,Report the damage with an image for a refund or replacement.
+My order was leaking when delivered. Refund needed.,Our apologies. Refund is on the way.
+My order was leaking when delivered. Refund needed.,We’ll refund your order. Sorry for the inconvenience.
+My food arrived damaged. I want a refund.,Our apologies. Refund is on the way.
+"The meal was spilled in the package. Refund, please.",We apologize. Your refund is being processed.
+My pizza was smashed in transit. Requesting a refund.,Your refund is approved. We’re sorry for the experience.
+I got spoiled food. How do I get my money back?,We’ll refund your order. Sorry for the inconvenience.
+Food arrived cold and squashed. Can I get a refund?,We understand. Your refund will be issued shortly.
+There was hair in my food. I want a refund.,Our apologies. Refund is on the way.
+There was hair in my food. I want a refund.,Refund is being processed. Apologies for the trouble.
+"The meal was spilled in the package. Refund, please.",We understand. Your refund will be issued shortly.
+There was hair in my food. I want a refund.,We’ll refund your order. Sorry for the inconvenience.
+My pizza was smashed in transit. Requesting a refund.,Refund is being processed. Apologies for the trouble.
+My pizza was smashed in transit. Requesting a refund.,We understand. Your refund will be issued shortly.
+I received stale food. Need my money back.,Refund is being processed. Apologies for the trouble.
+My order was leaking when delivered. Refund needed.,We regret the issue. Refund will be processed soon.
+Food arrived late and completely ruined. I need a refund.,We apologize. Your refund is being processed.
+I received stale food. Need my money back.,Refund is being processed. Apologies for the trouble.
+Food arrived late and completely ruined. I need a refund.,We’ll refund your order. Sorry for the inconvenience.
+"The meal was spilled in the package. Refund, please.",Our apologies. Refund is on the way.
+Food arrived cold and squashed. Can I get a refund?,Your refund is approved. We’re sorry for the experience.
+My pizza was smashed in transit. Requesting a refund.,We’ll refund your order. Sorry for the inconvenience.
+Food arrived cold and squashed. Can I get a refund?,Sorry for the issue. We’ll process your refund.
+The food packaging was torn. I want a refund.,We’ll refund your order. Sorry for the inconvenience.
+My pizza was smashed in transit. Requesting a refund.,We’ll initiate the refund now. Sorry for this.
+"The meal was spilled in the package. Refund, please.",We’ll initiate the refund now. Sorry for this.
+My food arrived damaged. I want a refund.,We apologize. Your refund is being processed.
+I received stale food. Need my money back.,That’s unacceptable. Your refund is approved.
+I received stale food. Need my money back.,We’ll initiate the refund now. Sorry for this.
+Food arrived late and completely ruined. I need a refund.,That’s unacceptable. Your refund is approved.
+The food packaging was torn. I want a refund.,Your refund is approved. We’re sorry for the experience.
+The food packaging was torn. I want a refund.,We understand. Your refund will be issued shortly.
+I got spoiled food. How do I get my money back?,Your refund is approved. We’re sorry for the experience.
+My order was leaking when delivered. Refund needed.,That’s unacceptable. Your refund is approved.
+There was hair in my food. I want a refund.,We regret the issue. Refund will be processed soon.
+I got spoiled food. How do I get my money back?,That’s unacceptable. Your refund is approved.
+My pizza was smashed in transit. Requesting a refund.,Refund is being processed. Apologies for the trouble.
+"The meal was spilled in the package. Refund, please.",Our apologies. Refund is on the way.
+Food arrived cold and squashed. Can I get a refund?,Our apologies. Refund is on the way.
+"The meal was spilled in the package. Refund, please.",We’ll initiate the refund now. Sorry for this.
+My pizza was smashed in transit. Requesting a refund.,We’ll initiate the refund now. Sorry for this.
+My order was leaking when delivered. Refund needed.,That’s unacceptable. Your refund is approved.
+My pizza was smashed in transit. Requesting a refund.,That’s unacceptable. Your refund is approved.
+I got spoiled food. How do I get my money back?,We understand. Your refund will be issued shortly.
+My order was leaking when delivered. Refund needed.,We understand. Your refund will be issued shortly.
+Food arrived cold and squashed. Can I get a refund?,Sorry for the issue. We’ll process your refund.
+My order was leaking when delivered. Refund needed.,Sorry for the issue. We’ll process your refund.
+My pizza was smashed in transit. Requesting a refund.,Our apologies. Refund is on the way.
+The food packaging was torn. I want a refund.,We’ll refund your order. Sorry for the inconvenience.
+Food arrived late and completely ruined. I need a refund.,We’ll refund your order. Sorry for the inconvenience.
+There was hair in my food. I want a refund.,We regret the issue. Refund will be processed soon.
+My order was leaking when delivered. Refund needed.,We’ll initiate the refund now. Sorry for this.
+My pizza was smashed in transit. Requesting a refund.,We understand. Your refund will be issued shortly.
+My order was leaking when delivered. Refund needed.,Your refund is approved. We’re sorry for the experience.
+I received stale food. Need my money back.,We’ll refund your order. Sorry for the inconvenience.
+"The meal was spilled in the package. Refund, please.",We understand. Your refund will be issued shortly.
+There was hair in my food. I want a refund.,We apologize. Your refund is being processed.
+The food packaging was torn. I want a refund.,We’ll refund your order. Sorry for the inconvenience.
+Food arrived late and completely ruined. I need a refund.,That’s unacceptable. Your refund is approved.
+"The meal was spilled in the package. Refund, please.",We regret the issue. Refund will be processed soon.
+My food arrived damaged. I want a refund.,Sorry for the issue. We’ll process your refund.
+Food arrived late and completely ruined. I need a refund.,Your refund is approved. We’re sorry for the experience.
+"The meal was spilled in the package. Refund, please.",We’ll initiate the refund now. Sorry for this.
+I received stale food. Need my money back.,We understand. Your refund will be issued shortly.
+Food arrived cold and squashed. Can I get a refund?,We’ll initiate the refund now. Sorry for this.
+My pizza was smashed in transit. Requesting a refund.,We’ll refund your order. Sorry for the inconvenience.
+My order was leaking when delivered. Refund needed.,That’s unacceptable. Your refund is approved.
+My order was leaking when delivered. Refund needed.,Our apologies. Refund is on the way.
+"The meal was spilled in the package. Refund, please.",That’s unacceptable. Your refund is approved.
+There was hair in my food. I want a refund.,We’ll initiate the refund now. Sorry for this.
+My order was leaking when delivered. Refund needed.,Sorry for the issue. We’ll process your refund.
+I received stale food. Need my money back.,We’ll refund your order. Sorry for the inconvenience.
+"The meal was spilled in the package. Refund, please.",Sorry for the issue. We’ll process your refund.
+Food arrived cold and squashed. Can I get a refund?,Your refund is approved. We’re sorry for the experience.
+I got spoiled food. How do I get my money back?,We’ll initiate the refund now. Sorry for this.
+My pizza was smashed in transit. Requesting a refund.,We’ll initiate the refund now. Sorry for this.
+I got spoiled food. How do I get my money back?,We apologize. Your refund is being processed.
+I got spoiled food. How do I get my money back?,We’ll refund your order. Sorry for the inconvenience.
+"The meal was spilled in the package. Refund, please.",We’ll refund your order. Sorry for the inconvenience.
+My pizza was smashed in transit. Requesting a refund.,We’ll initiate the refund now. Sorry for this.
+There was hair in my food. I want a refund.,That’s unacceptable. Your refund is approved.
+Food arrived late and completely ruined. I need a refund.,We regret the issue. Refund will be processed soon.
+I received stale food. Need my money back.,We understand. Your refund will be issued shortly.
+I got spoiled food. How do I get my money back?,Your refund is approved. We’re sorry for the experience.
+Food arrived late and completely ruined. I need a refund.,We’ll initiate the refund now. Sorry for this.
+There was hair in my food. I want a refund.,That’s unacceptable. Your refund is approved.
+My order was leaking when delivered. Refund needed.,We apologize. Your refund is being processed.
+My order was leaking when delivered. Refund needed.,That’s unacceptable. Your refund is approved.
+Food arrived late and completely ruined. I need a refund.,We regret the issue. Refund will be processed soon.
+There was hair in my food. I want a refund.,We’ll refund your order. Sorry for the inconvenience.
+My pizza was smashed in transit. Requesting a refund.,Refund is being processed. Apologies for the trouble.
+There was hair in my food. I want a refund.,Refund is being processed. Apologies for the trouble.
+I received stale food. Need my money back.,Refund is being processed. Apologies for the trouble.
+Food arrived cold and squashed. Can I get a refund?,Our apologies. Refund is on the way.
+There was hair in my food. I want a refund.,We understand. Your refund will be issued shortly.
+My pizza was smashed in transit. Requesting a refund.,Our apologies. Refund is on the way.
+"The meal was spilled in the package. Refund, please.",Refund is being processed. Apologies for the trouble.
+There was hair in my food. I want a refund.,That’s unacceptable. Your refund is approved.
+I got spoiled food. How do I get my money back?,We’ll initiate the refund now. Sorry for this.
+I got spoiled food. How do I get my money back?,Sorry for the issue. We’ll process your refund.
+My order was leaking when delivered. Refund needed.,We apologize. Your refund is being processed.
+Food arrived late and completely ruined. I need a refund.,We’ll refund your order. Sorry for the inconvenience.
+My order was leaking when delivered. Refund needed.,We’ll initiate the refund now. Sorry for this.
+There was hair in my food. I want a refund.,Sorry for the issue. We’ll process your refund.
+There was hair in my food. I want a refund.,Refund is being processed. Apologies for the trouble.
+I received stale food. Need my money back.,We understand. Your refund will be issued shortly.
+My pizza was smashed in transit. Requesting a refund.,We regret the issue. Refund will be processed soon.
+Food arrived late and completely ruined. I need a refund.,We regret the issue. Refund will be processed soon.
+There was hair in my food. I want a refund.,Our apologies. Refund is on the way.
+There was hair in my food. I want a refund.,Sorry for the issue. We’ll process your refund.
+My order was leaking when delivered. Refund needed.,We’ll initiate the refund now. Sorry for this.
+Food arrived cold and squashed. Can I get a refund?,That’s unacceptable. Your refund is approved.
+My order was leaking when delivered. Refund needed.,We understand. Your refund will be issued shortly.
+Food arrived late and completely ruined. I need a refund.,We understand. Your refund will be issued shortly.
+My order was leaking when delivered. Refund needed.,We apologize. Your refund is being processed.
+Food arrived cold and squashed. Can I get a refund?,We apologize. Your refund is being processed.
+My order was leaking when delivered. Refund needed.,Sorry for the issue. We’ll process your refund.
+I received stale food. Need my money back.,Our apologies. Refund is on the way.
+The food packaging was torn. I want a refund.,We’ll refund your order. Sorry for the inconvenience.
+Food arrived cold and squashed. Can I get a refund?,Refund is being processed. Apologies for the trouble.
+"The meal was spilled in the package. Refund, please.",We apologize. Your refund is being processed.
+The food packaging was torn. I want a refund.,Our apologies. Refund is on the way.
+My food arrived damaged. I want a refund.,Our apologies. Refund is on the way.
+Food arrived cold and squashed. Can I get a refund?,Your refund is approved. We’re sorry for the experience.
+I received stale food. Need my money back.,Our apologies. Refund is on the way.
+I got spoiled food. How do I get my money back?,We understand. Your refund will be issued shortly.
+"The meal was spilled in the package. Refund, please.",That’s unacceptable. Your refund is approved.
+My order was leaking when delivered. Refund needed.,Our apologies. Refund is on the way.
+Food arrived late and completely ruined. I need a refund.,Your refund is approved. We’re sorry for the experience.
+There was hair in my food. I want a refund.,We understand. Your refund will be issued shortly.
+My pizza was smashed in transit. Requesting a refund.,We regret the issue. Refund will be processed soon.
+I got spoiled food. How do I get my money back?,We’ll refund your order. Sorry for the inconvenience.
+I got spoiled food. How do I get my money back?,We understand. Your refund will be issued shortly.
+"The meal was spilled in the package. Refund, please.",We’ll refund your order. Sorry for the inconvenience.
+Food arrived late and completely ruined. I need a refund.,That’s unacceptable. Your refund is approved.
+I received stale food. Need my money back.,We understand. Your refund will be issued shortly.
+The food packaging was torn. I want a refund.,Your refund is approved. We’re sorry for the experience.
+Food arrived late and completely ruined. I need a refund.,Your refund is approved. We’re sorry for the experience.
+My food arrived damaged. I want a refund.,We understand. Your refund will be issued shortly.
+My order was leaking when delivered. Refund needed.,Sorry for the issue. We’ll process your refund.
+There was hair in my food. I want a refund.,Your refund is approved. We’re sorry for the experience.
+There was hair in my food. I want a refund.,We understand. Your refund will be issued shortly.
+Food arrived cold and squashed. Can I get a refund?,We regret the issue. Refund will be processed soon.
+I got spoiled food. How do I get my money back?,We understand. Your refund will be issued shortly.
+My food arrived damaged. I want a refund.,That’s unacceptable. Your refund is approved.
+"The meal was spilled in the package. Refund, please.",Sorry for the issue. We’ll process your refund.
+My food arrived damaged. I want a refund.,We understand. Your refund will be issued shortly.
+I got spoiled food. How do I get my money back?,We regret the issue. Refund will be processed soon.
+The food packaging was torn. I want a refund.,Refund is being processed. Apologies for the trouble.
+I got spoiled food. How do I get my money back?,Sorry for the issue. We’ll process your refund.
+My order was leaking when delivered. Refund needed.,That’s unacceptable. Your refund is approved.
+The food packaging was torn. I want a refund.,We regret the issue. Refund will be processed soon.
+"The meal was spilled in the package. Refund, please.",We apologize. Your refund is being processed.
+I got spoiled food. How do I get my money back?,Our apologies. Refund is on the way.
+I received stale food. Need my money back.,We understand. Your refund will be issued shortly.
+"The meal was spilled in the package. Refund, please.",Refund is being processed. Apologies for the trouble.
+I got spoiled food. How do I get my money back?,We’ll refund your order. Sorry for the inconvenience.
+I got spoiled food. How do I get my money back?,We’ll refund your order. Sorry for the inconvenience.
+My pizza was smashed in transit. Requesting a refund.,We understand. Your refund will be issued shortly.
+The food packaging was torn. I want a refund.,Sorry for the issue. We’ll process your refund.
+Food arrived cold and squashed. Can I get a refund?,Sorry for the issue. We’ll process your refund.
+"The meal was spilled in the package. Refund, please.",We regret the issue. Refund will be processed soon.
+My pizza was smashed in transit. Requesting a refund.,Our apologies. Refund is on the way.
+Food arrived late and completely ruined. I need a refund.,Refund is being processed. Apologies for the trouble.
+There was hair in my food. I want a refund.,We understand. Your refund will be issued shortly.
+"The meal was spilled in the package. Refund, please.",Refund is being processed. Apologies for the trouble.
+My food arrived damaged. I want a refund.,That’s unacceptable. Your refund is approved.
+I got spoiled food. How do I get my money back?,We’ll initiate the refund now. Sorry for this.
+My food arrived damaged. I want a refund.,We’ll initiate the refund now. Sorry for this.
+My order was leaking when delivered. Refund needed.,We understand. Your refund will be issued shortly.
+There was hair in my food. I want a refund.,We’ll refund your order. Sorry for the inconvenience.
+I received stale food. Need my money back.,We’ll initiate the refund now. Sorry for this.
+The food packaging was torn. I want a refund.,Sorry for the issue. We’ll process your refund.
+I got spoiled food. How do I get my money back?,We regret the issue. Refund will be processed soon.
+My food arrived damaged. I want a refund.,Our apologies. Refund is on the way.
+Food arrived cold and squashed. Can I get a refund?,We apologize. Your refund is being processed.
+I got spoiled food. How do I get my money back?,We regret the issue. Refund will be processed soon.
+There was hair in my food. I want a refund.,We’ll refund your order. Sorry for the inconvenience.
+My order was leaking when delivered. Refund needed.,We understand. Your refund will be issued shortly.
+My food arrived damaged. I want a refund.,We’ll initiate the refund now. Sorry for this.
+Food arrived late and completely ruined. I need a refund.,Refund is being processed. Apologies for the trouble.
+I received stale food. Need my money back.,We regret the issue. Refund will be processed soon.
+I got spoiled food. How do I get my money back?,We apologize. Your refund is being processed.
+I got spoiled food. How do I get my money back?,We understand. Your refund will be issued shortly.
+I got spoiled food. How do I get my money back?,We’ll refund your order. Sorry for the inconvenience.
+The food packaging was torn. I want a refund.,Your refund is approved. We’re sorry for the experience.
+There was hair in my food. I want a refund.,Our apologies. Refund is on the way.
+I received stale food. Need my money back.,Our apologies. Refund is on the way.
+There was hair in my food. I want a refund.,Your refund is approved. We’re sorry for the experience.
+I got spoiled food. How do I get my money back?,That’s unacceptable. Your refund is approved.
+Food arrived late and completely ruined. I need a refund.,We’ll initiate the refund now. Sorry for this.
+Food arrived late and completely ruined. I need a refund.,We’ll initiate the refund now. Sorry for this.
+Food arrived cold and squashed. Can I get a refund?,Sorry for the issue. We’ll process your refund.
+"The meal was spilled in the package. Refund, please.",We understand. Your refund will be issued shortly.
+I received stale food. Need my money back.,We apologize. Your refund is being processed.
+Food arrived late and completely ruined. I need a refund.,Sorry for the issue. We’ll process your refund.
+There was hair in my food. I want a refund.,Sorry for the issue. We’ll process your refund.
+I received stale food. Need my money back.,Our apologies. Refund is on the way.
+Food arrived cold and squashed. Can I get a refund?,Sorry for the issue. We’ll process your refund.
+I received stale food. Need my money back.,Your refund is approved. We’re sorry for the experience.
+My food arrived damaged. I want a refund.,Refund is being processed. Apologies for the trouble.
+"The meal was spilled in the package. Refund, please.",Sorry for the issue. We’ll process your refund.
+I got spoiled food. How do I get my money back?,Sorry for the issue. We’ll process your refund.
+Food arrived late and completely ruined. I need a refund.,We regret the issue. Refund will be processed soon.
+Food arrived late and completely ruined. I need a refund.,We’ll initiate the refund now. Sorry for this.
+Food arrived cold and squashed. Can I get a refund?,We’ll initiate the refund now. Sorry for this.
+There was hair in my food. I want a refund.,Our apologies. Refund is on the way.
+My food arrived damaged. I want a refund.,Sorry for the issue. We’ll process your refund.
+Food arrived late and completely ruined. I need a refund.,Your refund is approved. We’re sorry for the experience.
+The food packaging was torn. I want a refund.,Refund is being processed. Apologies for the trouble.
+Food arrived late and completely ruined. I need a refund.,Your refund is approved. We’re sorry for the experience.
+"The meal was spilled in the package. Refund, please.",Refund is being processed. Apologies for the trouble.
+My order was leaking when delivered. Refund needed.,We regret the issue. Refund will be processed soon.
+There was hair in my food. I want a refund.,We understand. Your refund will be issued shortly.
+Food arrived cold and squashed. Can I get a refund?,Our apologies. Refund is on the way.
+There was hair in my food. I want a refund.,Your refund is approved. We’re sorry for the experience.
+The food packaging was torn. I want a refund.,We’ll refund your order. Sorry for the inconvenience.
+My pizza was smashed in transit. Requesting a refund.,We regret the issue. Refund will be processed soon.
+Food arrived cold and squashed. Can I get a refund?,We’ll refund your order. Sorry for the inconvenience.
+I got spoiled food. How do I get my money back?,We’ll refund your order. Sorry for the inconvenience.
+Food arrived cold and squashed. Can I get a refund?,Sorry for the issue. We’ll process your refund.
+"The meal was spilled in the package. Refund, please.",Sorry for the issue. We’ll process your refund.
+My order was leaking when delivered. Refund needed.,That’s unacceptable. Your refund is approved.
+The food packaging was torn. I want a refund.,Our apologies. Refund is on the way.
+The food packaging was torn. I want a refund.,We’ll initiate the refund now. Sorry for this.
+My order was leaking when delivered. Refund needed.,Your refund is approved. We’re sorry for the experience.
+My food arrived damaged. I want a refund.,Your refund is approved. We’re sorry for the experience.
+My pizza was smashed in transit. Requesting a refund.,We’ll refund your order. Sorry for the inconvenience.
+My pizza was smashed in transit. Requesting a refund.,We’ll refund your order. Sorry for the inconvenience.
+I got spoiled food. How do I get my money back?,Refund is being processed. Apologies for the trouble.
+There was hair in my food. I want a refund.,Sorry for the issue. We’ll process your refund.
+Food arrived late and completely ruined. I need a refund.,We’ll initiate the refund now. Sorry for this.
+My food arrived damaged. I want a refund.,We regret the issue. Refund will be processed soon.
+I received stale food. Need my money back.,Our apologies. Refund is on the way.
+Food arrived late and completely ruined. I need a refund.,We apologize. Your refund is being processed.
+Food arrived cold and squashed. Can I get a refund?,Your refund is approved. We’re sorry for the experience.
+Food arrived late and completely ruined. I need a refund.,We’ll refund your order. Sorry for the inconvenience.
+I received stale food. Need my money back.,Sorry for the issue. We’ll process your refund.
+I got spoiled food. How do I get my money back?,We regret the issue. Refund will be processed soon.
+Food arrived late and completely ruined. I need a refund.,Sorry for the issue. We’ll process your refund.
+Food arrived cold and squashed. Can I get a refund?,Sorry for the issue. We’ll process your refund.
+There was hair in my food. I want a refund.,We understand. Your refund will be issued shortly.
+My food arrived damaged. I want a refund.,We’ll refund your order. Sorry for the inconvenience.
+Food arrived late and completely ruined. I need a refund.,That’s unacceptable. Your refund is approved.
+I got spoiled food. How do I get my money back?,We apologize. Your refund is being processed.
+Food arrived late and completely ruined. I need a refund.,We’ll refund your order. Sorry for the inconvenience.
+My order was leaking when delivered. Refund needed.,Our apologies. Refund is on the way.
+I received stale food. Need my money back.,We apologize. Your refund is being processed.
+The food packaging was torn. I want a refund.,Our apologies. Refund is on the way.
+Food arrived cold and squashed. Can I get a refund?,That’s unacceptable. Your refund is approved.
+The food packaging was torn. I want a refund.,We’ll refund your order. Sorry for the inconvenience.
+Food arrived cold and squashed. Can I get a refund?,Our apologies. Refund is on the way.
+My order was leaking when delivered. Refund needed.,Refund is being processed. Apologies for the trouble.
+The food packaging was torn. I want a refund.,We’ll refund your order. Sorry for the inconvenience.
+I received stale food. Need my money back.,Refund is being processed. Apologies for the trouble.
+Food arrived late and completely ruined. I need a refund.,Refund is being processed. Apologies for the trouble.
+Food arrived late and completely ruined. I need a refund.,Your refund is approved. We’re sorry for the experience.
+There was hair in my food. I want a refund.,We’ll initiate the refund now. Sorry for this.
+Food arrived late and completely ruined. I need a refund.,We understand. Your refund will be issued shortly.
+I got spoiled food. How do I get my money back?,Sorry for the issue. We’ll process your refund.
+Food arrived cold and squashed. Can I get a refund?,Our apologies. Refund is on the way.
+My pizza was smashed in transit. Requesting a refund.,We’ll initiate the refund now. Sorry for this.
+There was hair in my food. I want a refund.,That’s unacceptable. Your refund is approved.
+My food arrived damaged. I want a refund.,We’ll initiate the refund now. Sorry for this.
+Food arrived cold and squashed. Can I get a refund?,Refund is being processed. Apologies for the trouble.
+My pizza was smashed in transit. Requesting a refund.,Your refund is approved. We’re sorry for the experience.
+My food arrived damaged. I want a refund.,We’ll initiate the refund now. Sorry for this.
+Food arrived cold and squashed. Can I get a refund?,Your refund is approved. We’re sorry for the experience.
+My pizza was smashed in transit. Requesting a refund.,Our apologies. Refund is on the way.
+I got spoiled food. How do I get my money back?,That’s unacceptable. Your refund is approved.
+"The meal was spilled in the package. Refund, please.",Our apologies. Refund is on the way.
+My food arrived damaged. I want a refund.,That’s unacceptable. Your refund is approved.
+Food arrived late and completely ruined. I need a refund.,Sorry for the issue. We’ll process your refund.
+Food arrived late and completely ruined. I need a refund.,Refund is being processed. Apologies for the trouble.
+Food arrived late and completely ruined. I need a refund.,We apologize. Your refund is being processed.
+"The meal was spilled in the package. Refund, please.",We understand. Your refund will be issued shortly.
+I got spoiled food. How do I get my money back?,We’ll initiate the refund now. Sorry for this.
+The food packaging was torn. I want a refund.,Sorry for the issue. We’ll process your refund.
+I received stale food. Need my money back.,That’s unacceptable. Your refund is approved.
+"The meal was spilled in the package. Refund, please.",Sorry for the issue. We’ll process your refund.
+"The meal was spilled in the package. Refund, please.",That’s unacceptable. Your refund is approved.
+The food packaging was torn. I want a refund.,We regret the issue. Refund will be processed soon.
+I got spoiled food. How do I get my money back?,We’ll refund your order. Sorry for the inconvenience.
+My food arrived damaged. I want a refund.,We understand. Your refund will be issued shortly.
+My pizza was smashed in transit. Requesting a refund.,Your refund is approved. We’re sorry for the experience.
+Food arrived cold and squashed. Can I get a refund?,We’ll initiate the refund now. Sorry for this.
+Food arrived late and completely ruined. I need a refund.,We understand. Your refund will be issued shortly.
+Food arrived cold and squashed. Can I get a refund?,That’s unacceptable. Your refund is approved.
+Food arrived cold and squashed. Can I get a refund?,We understand. Your refund will be issued shortly.
+My pizza was smashed in transit. Requesting a refund.,Sorry for the issue. We’ll process your refund.
+I got spoiled food. How do I get my money back?,Sorry for the issue. We’ll process your refund.
+The food packaging was torn. I want a refund.,Refund is being processed. Apologies for the trouble.
+My food arrived damaged. I want a refund.,We’ll initiate the refund now. Sorry for this.
+My pizza was smashed in transit. Requesting a refund.,We apologize. Your refund is being processed.
+I received stale food. Need my money back.,We’ll refund your order. Sorry for the inconvenience.
+Food arrived cold and squashed. Can I get a refund?,We apologize. Your refund is being processed.
+I received stale food. Need my money back.,We’ll initiate the refund now. Sorry for this.
+There was hair in my food. I want a refund.,We apologize. Your refund is being processed.
+My pizza was smashed in transit. Requesting a refund.,Refund is being processed. Apologies for the trouble.
+My order was leaking when delivered. Refund needed.,That’s unacceptable. Your refund is approved.
+There was hair in my food. I want a refund.,We’ll initiate the refund now. Sorry for this.
