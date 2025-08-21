@@ -270,7 +270,7 @@ Kottu Saikumar
 
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@yourusername]([https://github.com/yourusername](https://github.com/kottusaikumar/AI-Chatbot-Project-Intelligent-Food-Spoilage-Detector-CNN-NLP-))
 - LinkedIn: [Your LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sai-kumar-10541b269))
 
 ---
