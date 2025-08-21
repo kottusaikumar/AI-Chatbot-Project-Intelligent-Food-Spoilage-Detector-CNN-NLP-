@@ -268,10 +268,9 @@ Kottu Saikumar
 
 💡 Areas of Interest: Data Science, Deep Learning, NLP, Computer Vision
 
-
-**Your Name**
-- GitHub: [@yourusername]([https://github.com/yourusername](https://github.com/kottusaikumar/AI-Chatbot-Project-Intelligent-Food-Spoilage-Detector-CNN-NLP-))
-- LinkedIn: [Your LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sai-kumar-10541b269))
+**Kottu Sai Kumar**  
+- GitHub: [@kottusaikumar](https://github.com/kottusaikumar/AI-Chatbot-Project-Intelligent-Food-Spoilage-Detector-CNN-NLP-)  
+- LinkedIn: [Sai Kumar](https://www.linkedin.com/in/sai-kumar-10541b269)  
 
 ---
 
