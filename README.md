@@ -270,7 +270,7 @@ Kottu Saikumar
 
 **Kottu Sai Kumar**  
 - GitHub: [@kottusaikumar](https://github.com/kottusaikumar/AI-Chatbot-Project-Intelligent-Food-Spoilage-Detector-CNN-NLP-)  
-- LinkedIn: [Sai Kumar](https://www.linkedin.com/in/sai-kumar-10541b269)  
+- LinkedIn: [Kottu.SaiKumar](https://www.linkedin.com/in/sai-kumar-10541b269)  
 
 ---
 
