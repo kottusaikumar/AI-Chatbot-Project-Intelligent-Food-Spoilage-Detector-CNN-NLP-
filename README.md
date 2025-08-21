@@ -253,11 +253,25 @@ NLP_CHATBOT/
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 👨‍💻 Author
+## 👨‍🎓 Author
+Kottu Saikumar
+
+📧 Email: kottusaikumar2003@gmail.com
+
+📞 Phone: +91 6304830339
+
+📍 Location: Hyderabad, Telangana
+
+🎓 B.Tech in Electronics and Communication Engineering (2020–2024)
+
+🏫 University College of Engineering, JNTUK
+
+💡 Areas of Interest: Data Science, Deep Learning, NLP, Computer Vision
+
 
 **Your Name**
 - GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- LinkedIn: [Your LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sai-kumar-10541b269))
 
 ---
 
@@ -268,6 +282,3 @@ This project is open source and available under the [MIT License](LICENSE).
 <img width="807" height="921" alt="image" src="https://github.com/user-attachments/assets/7cdded42-548d-4026-8fed-c51b1ff022d1" />
 
 
-## 🎥 Demo
-
-*Add link to demo video or live demo here*
